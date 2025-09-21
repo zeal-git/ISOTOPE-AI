@@ -1,4 +1,4 @@
-# ISOTOPE-AI
+# LangoForge AI
 This is self-developed AI powered website where users can have access to various creative options to enhance their creativity using Gemini based AI. Designed using Langchain + Google Gemini API helps in interatiion 
 with documents, performs intelligence NLP tasks.
 
